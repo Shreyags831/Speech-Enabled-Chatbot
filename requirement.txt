@@ -1,0 +1,4 @@
+SpeechRecognition==3.8.1
+nltk==3.6.7
+googlesearch-python==1.1.0
+PyAudio==0.2.11
