@@ -63,7 +63,7 @@ This project is a speech-enabled chatbot built using Python. The chatbot listens
 1. **Run the chatbot:**
 
    ```bash
-   python chatbot.py
+   python code.py
    ```
 
 2. **Interact with the bot:**
